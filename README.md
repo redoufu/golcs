@@ -1,0 +1,4 @@
+golcs
+=====
+
+LCS by golang
