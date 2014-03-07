@@ -1,4 +1,4 @@
 golcs
 =====
 
-LCS by golang
+Longest Common Subsequence by golang
